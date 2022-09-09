@@ -1,0 +1,4 @@
+'make_bank-correct', (0, 66)
+'make_withdraw-correct', (512, 66)
+'repeated-correct', (1024, 66)
+'permutations-correct', (1536, 66)

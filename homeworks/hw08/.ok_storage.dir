@@ -1,0 +1,4 @@
+'derive-sum-correct', (0, 66)
+'derive-product-correct', (512, 66)
+'make-exp-correct', (1024, 66)
+'derive-exp-correct', (1536, 66)

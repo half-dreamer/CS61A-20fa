@@ -1,0 +1,38 @@
+## 求助CS61A的第一个project hog的problem5
+以下是lz的代码段（不可行）
+```python
+while(score0<goal and score1<goal):
+  	if who==0 :
+		cur_strategy = strategy0
+		cur_score = score0
+		cur_op_score=score1
+		cur_op_strategy = strategy1
+	else:
+		cur_strategy = strategy1
+		cur_score = score1
+		cur_op_score=score0
+		cur_op_strategy = strategy0
+ 	cur_score=cur_score+take_turn(cur_strategy(cur_score,cur_op_score),cur_op_score,dice)
+
+ 	if(extra_turn(cur_score,cur_op_score)==False):
+	 	who=other(who)
+```
+此为正确的代码段（lz已测试正确）
+```python
+while score0 < goal and score1 < goal:
+        if who == 0:
+            num_rolls = strategy0(score0, score1)
+            score0 += take_turn(num_rolls, score1, dice)
+            who = other(who) if extra_turn(score0, score1) == False else who
+        else:
+            num_rolls = strategy1(score1, score0)
+            score1 += take_turn(num_rolls, score0, dice)
+            who = other(who) if extra_turn(score1, score0) == False else who
+```
+但是，事实上lz的代码段其实跟正确的代码段本质上是一样的，故前来向大伙询问🤔
+
+不知道是不是这个原因（project的提醒事项）
+
+> Only call a strategy function once per turn (or risk breaking the GUI).
+
+但是lz也没call twice啊🤔

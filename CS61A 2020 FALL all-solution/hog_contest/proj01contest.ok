@@ -1,0 +1,17 @@
+{
+    "name": "Hog Contest",
+    "endpoint": "cal/cs61a/fa20/proj01contest",
+    "src": [
+        "final_strategy.py"
+    ],
+    "tests": {
+        "tests/validate.py": "ok_test",
+        "tests/submit.py": "ok_test"
+    },
+    "protocols": [
+        "file_contents",
+        "analytics",
+        "grading",
+        "backup"
+    ]
+}

@@ -1,0 +1,16 @@
+``` python
+    def say_highest(score0,score1):
+        if(who==0):
+            cur_running_high = score0 - last_score
+            if(cur_running_high>=running_high and cur_running_high>0):
+                print(cur_running_high,'point(s)! The most yet for Player 0')
+            return announce_highest(who,score0,cur_running_high)
+
+        if(who==1):
+            cur_running_high = score1 - last_score
+            if(cur_running_high>=running_high and cur_running_high>0):
+                print(cur_running_high,'point(s)! The most yet for Player 1')
+            return announce_highest(who,score1,cur_running_high)           
+    return say_highest
+```
+
