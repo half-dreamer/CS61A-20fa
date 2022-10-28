@@ -40,7 +40,13 @@
 
    当22年的我回看20fa UCB学生的创作时，突然有一丝触动，让我回到了那个曾经疫情爆发的时期，这是其中一个学生所作：
 
-   ![image-20221025164235530](C:\Users\13190\AppData\Roaming\Typora\typora-user-images\image-20221025164235530.png)
+   ![img](https://inst.eecs.berkeley.edu//~cs61a/su20/proj/scheme_gallery/entries/23b998b1/artwork.png)
+
+   > 作品名：Dubai
+   >
+   >  注脚：Stuck at home this fall;
+   > 			I'm 8000 miles from Cal.
+   > 			Sunset's quite nice though.
 
 7. 61a的有一个optional的lecture   Ethical Al&Data，非常严肃地探讨了AI在现实生活中的应用以及面临的道德问题，并不是蜻蜓点水般站在道德高地，大笔一挥，无关痛痒地讲两句，而是用教授Farid自己做的实际的Al模型应用种族犯罪的事例去设身处地、满怀人文关怀地探讨。就像Farid所说的，如果AI任何一个可能出现的bug，一点偏差会导致一个人身陷囹圄，那AI的应用就仍然需要斟酌，如果那个因为AI而被冤枉的人是你或者你的亲人，你会作何感想？上完这节课后，我对UCB突然有了非常崇高的敬意，他们是真正地在change the world，他们是在以世界改造者的身份自我反思，我想，如果任何一个学生在刚接触computer science的时候能有人指引正确的方向，有人愿意和他去探讨科技的利弊，有人告诉他：what you are doing might change the world，世界或许会变得更好。由于笔者文字水平太烂无法表述出上过此课后震撼的感觉，所以感兴趣的同学可以自己观看[61A Fall 2020 Lecture 26 Video ](https://www.youtube.com/watch?v=6F04tADaeMs&list=PL6BsET-8jgYV2CEjAGz5Fbu68cmMxWDqb)
 
@@ -56,7 +62,7 @@
 
 ​      [分享一下自己自学两个月CS61A的情况 ](https://www.cc98.org/topic/4909055)
 
-​      感谢@ HobbitQia   同学的GitHub以及提供的帮助
+​      感谢@HobbitQia 同学的GitHub以及提供的帮助
 
 
 
