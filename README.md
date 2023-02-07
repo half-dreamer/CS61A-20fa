@@ -34,9 +34,7 @@
 
 5. 61a可以让学习者感受到数学的美感，就像John强调的generic（不知道怎么翻译，可能是普遍化？）的思想，和数学中探寻普遍定理的思想非常接近，在某种程度上个人认为是代码美感的主要来源。就像对称是美的，把个例普遍化，精简化同样是十分有艺术感的过程。所以我一直觉得以代码量来评分不是个很好的行为，毕竟如果想凑一个冗长的代码，只需要不断Ctrl-C + Ctrl-V来实现本质没什么不同的功能。
 
-6. 作为一个理工类课程，61a的艺术性又无处不在。“for the sake of
-
-   art“ John常常提及，61a的网站设置也很漂亮。同时，61a的作业有很多和艺术相关。比如scheme相关作业有画画创作，每一年的作品都在课程网站上，比如[Scheme Art Gallery | CS 61A Fall 2020 (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme_gallery/)
+6. 作为一个理工类课程，61a的艺术性又无处不在。“for the sake of art“ John常常提及，61a的网站设置也很漂亮。同时，61a的作业有很多和艺术相关。比如scheme相关作业有画画创作，每一年的作品都在课程网站上，比如[Scheme Art Gallery | CS 61A Fall 2020 (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs61a/fa20/proj/scheme_gallery/)
 
    当22年的我回看20fa UCB学生的创作时，突然有一丝触动，让我回到了那个曾经疫情爆发的时期，这是其中一个学生所作：
 
